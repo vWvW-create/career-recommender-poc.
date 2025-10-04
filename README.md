@@ -1,11 +1,13 @@
-# career-recommender-poc
-## Overview
-This project is a Proof of Concept (PoC) for a career recommendation system using:
-- Collaborative Filtering
-- NLP-based job matching
+## Purpose
+This prototype provides career recommendations based on user's skills, interests, and experience.
 
-## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<username>/career-recommender-poc.git
-   cd career-recommender-poc/ml
+## Requirements
+- Python 3.8+
+- pandas
+- scikit-learn
+- Flask (if you want to create an API)
+
+## Usage
+```bash
+python app.py
+
