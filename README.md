@@ -11,3 +11,9 @@ This prototype provides career recommendations based on user's skills, interests
 ```bash
 python app.py
 
+
+Train the model:
+python train_model.py
+python app.py
+
+
